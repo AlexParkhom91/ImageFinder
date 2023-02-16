@@ -20,8 +20,8 @@ ActivityIndicator
 
 ## [API]
 (https://serpapi.com/images-results)!
-## MainPage!
-[Simulator Screen Shot - iPhone 14 Pro - 2023-02-16 at 16 33 31](https://user-images.githubusercontent.com/107427927/219366903-959f7b50-4ae9-4a4d-ba9f-cf601d7c3d13.png)
+## MainPage
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-16 at 16 33 31](https://user-images.githubusercontent.com/107427927/219366903-959f7b50-4ae9-4a4d-ba9f-cf601d7c3d13.png)
  
  ##SearchImage
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-02-16 at 16 33 47](https://user-images.githubusercontent.com/107427927/219366589-44aecad5-172a-413a-a14a-192ba74a258b.png)
